@@ -1,0 +1,10 @@
+* with-cached-reader-conditionals
+
+Call a function can return the result and also any features expressions that were read inside the funcall
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/cbaggers/with-cached-reader-conditionals.git   |
+| commit  | b4da1a6  |
+| systems | with-cached-reader-conditionals |
+|---------+-------------------------------------------|
+
